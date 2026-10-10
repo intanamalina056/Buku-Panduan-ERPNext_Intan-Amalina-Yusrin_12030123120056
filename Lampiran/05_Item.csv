@@ -1,0 +1,6 @@
+Item Code,Item Name,Item Group,Stock UOM,Default Material Request Type,Standard Rate,Valuation Rate,Is Purchase Item,Is Sales Item
+RM-WOOD-01,Papan Kayu Jati 120x60,Bahan Baku,Pcs,Purchase,150000,150000,1,0
+RM-LEG-01,Kaki Meja Besi Hollow,Bahan Baku,Pcs,Purchase,50000,50000,1,0
+RM-SCRW-01,Sekrup Kayu Pack (100 Pcs),Bahan Baku,Box,Purchase,25000,25000,1,0
+RM-PAINT-01,Cat Varnish Kayu 1L,Bahan Baku,Kaleng,Purchase,75000,75000,1,0
+FG-DESK-01,Meja Kayu Minimalis,Barang Jadi,Pcs,Manufacture,750000,450000,0,1

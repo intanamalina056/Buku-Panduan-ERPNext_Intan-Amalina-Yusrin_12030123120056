@@ -1,0 +1,5 @@
+BOM Item,Item Code,Qty,UOM,Operation
+FG-DESK-01,RM-WOOD-01,1,Pcs,Pemotongan dan Perakitan
+FG-DESK-01,RM-LEG-01,4,Pcs,Pemotongan dan Perakitan
+FG-DESK-01,RM-SCRW-01,0.2,Box,Pemotongan dan Perakitan
+FG-DESK-01,RM-PAINT-01,0.5,Kaleng,Pengecatan dan Finishing
